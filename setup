@@ -1,14 +1,4 @@
 bs4
-urllib
-request
-socket
 tqdm
-re
-time
-sys
 nltk
-numpy
-pandas
-space
-json
-matplotlib
+spacy
